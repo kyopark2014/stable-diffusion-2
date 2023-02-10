@@ -6,7 +6,6 @@
 
 ```java
 curl -X POST http://alb-inference-696682461.ap-northeast-2.elb.amazonaws.com -H "Content-Type: application/json" -d '{"text":"a lonely rose"}'
-https://d3di2wp8w2gc8q.cloudfront.net/img_20230210-180814.jpeg
 ```
 
 
