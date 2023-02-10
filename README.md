@@ -1,5 +1,16 @@
 # emotion-garden
 
+
+
+## text2image
+
+```java
+curl -X POST http://alb-inference-696682461.ap-northeast-2.elb.amazonaws.com -H "Content-Type: application/json" -d '{"text":"a lonely rose"}'
+https://d3di2wp8w2gc8q.cloudfront.net/img_20230210-180814.jpeg
+```
+
+
+
 - original 
 
 ![image](https://user-images.githubusercontent.com/52392004/217559770-2d01eccc-26d5-4ac3-875d-c7064503c4d9.png)
