@@ -43,3 +43,13 @@ pencil sketch of robots playing poker
 ![image](https://user-images.githubusercontent.com/52392004/218259001-f6fec02c-1147-402e-b3ac-1cab40f77ef1.png)
 
 
+An oil painting of a lake in Winter
+
+![image](https://user-images.githubusercontent.com/52392004/218259189-a42eca52-35db-4734-955d-85781173c09a.png)
+
+
+A tulip field made by Claude Monet
+
+![image](https://user-images.githubusercontent.com/52392004/218259209-7e69472a-6267-4b83-94f6-e9879031751d.png)
+
+
