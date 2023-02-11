@@ -140,3 +140,16 @@ temple in ruines, forest, stairs, columns, cinematic, detailed, atmospheric, epi
 
 ![image](https://user-images.githubusercontent.com/52392004/218260496-3eff8710-97a1-45e2-be1b-959dcd9987f4.png)
 
+
+
+a young blonde male jedi with short hair standing still looking at the sunset concept art by Doug Chiang cinematic, realistic painting, high definition, concept art, portait image, path tracing, serene landscape, high quality, highly detailed, 8K, soft colors, warm colors, turbulent sea, high coherence, anatomically correct, hyperrealistic, concept art, defined face, five fingers, symmetrical
+
+![image](https://user-images.githubusercontent.com/52392004/218260573-70be222d-3947-42af-adb7-76d98e5d5f46.png)
+
+
+
+a cute magical flying dog, fantasy art drawn by disney concept artists, golden colour, high quality, highly detailed, elegant, sharp focus, concept art, character concepts, digital painting, mystery, adventure
+
+![image](https://user-images.githubusercontent.com/52392004/218260599-b32f4673-d386-4c7e-b979-4bfdb50dcdb6.png)
+
+
